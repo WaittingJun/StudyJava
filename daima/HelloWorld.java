@@ -1,0 +1,10 @@
+public class HelloWorld{
+    public static void main(String[] args)
+    {
+      int i=8;   
+      System.out.println("HelloWorld!");
+      System.out.println('i');
+     }
+
+
+}
