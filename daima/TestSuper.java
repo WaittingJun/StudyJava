@@ -9,7 +9,7 @@ class Father {
 
 class Son extends Father {
 	public String sex;
-		
+		//方法类名必须和父类相同，最好COPY 过来
 		public void Father() {
 			super.Father();
 			sex = "sman";
