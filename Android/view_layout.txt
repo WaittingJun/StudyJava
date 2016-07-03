@@ -1,0 +1,2 @@
+【Android UI】Android开发之View的几种布局方式及实践
+http://www.cnblogs.com/ronli/p/3329980.html
